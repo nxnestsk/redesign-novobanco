@@ -1,4 +1,4 @@
-# Redesign App Bancária (Protótipo)
+# Redesign App Bancária (REACT)
 
 Um protótipo funcional e moderno de uma aplicação bancária desenvolvido em React, focado em UX/UI, animações fluidas e persistência de dados.
 
